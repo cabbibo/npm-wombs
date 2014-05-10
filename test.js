@@ -1,6 +1,5 @@
 
 var audioController = require( 'wombs-audio-controller' );
-
 audioController._start();
 
 update();
