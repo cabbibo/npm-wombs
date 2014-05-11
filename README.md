@@ -1,3 +1,7 @@
+
+to run:
+beefy test.js:builtTest.js --live
+
 Each node modules main.js will should always be the name of the node module. This is simply for use with beefy, so that when we get a console log error, it will tell us which file its in
 
 
